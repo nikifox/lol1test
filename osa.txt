@@ -1,0 +1,3 @@
+        @self.bot.command()
+        async def prefix(ctx):
+            await ctx.send('Der Bot Prefix ist `""`')
